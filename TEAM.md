@@ -1,14 +1,14 @@
 ## Founder
-
-Name: [name]
-Role: [role]
+Dinuz Nidid 
+Name: [Ongis Nade ]
+Role: [Owner]
 
 ## Team Member 1
-
-Name: [name]
-Role: [role]
+Adyters 
+Name: [Tomy Aditya]
+Role: [Developers]
 
 ## Team Member 2
-
-Name: [name]
-Role: [role]
+Dinuz Nidid 
+Name: [Ongis Nade]
+Role: [Administrators]
